@@ -19,3 +19,8 @@ Hi, I'm currently working as a frontend developer with a passion for building fe
 <br><br>
 <img src="images/lazer-bar.gif">
 <br><br>
+
+
+## <img src="images/code_icon.webp" align="top" width ="33"><b> Skills</b>
+
+<br>
