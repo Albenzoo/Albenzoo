@@ -1,7 +1,9 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Alberto+Presenti;Software+Developer+💻;Passionate+Gamer+🎮;Tech+Enthusiast+⚡;Anime+Fan+🔥;Future+House+Lover+🎵;Horror+Movie+Buff+👻;AC+Milan+Supporter+🔴⚫">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Gamer+🎮;Tech+Enthusiast+⚡;Anime+Fan+🔥;Future+House+Music+Lover+🎵;Horror+Movie+Buff+👻;AC+Milan+Supporter+🔴⚫">
 </p>
-	
+
+
+
 ## <picture><img src="images/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="images/developer_at_work.gif" width = 250px></picture>
@@ -89,7 +91,11 @@ Hi, I'm a **Software Developer** with a strong focus on frontend technologies, p
 ## <img src="images/handshake.gif" width ="69" align="top"><b> Let's Connect..!</b>
 <br>
 <div align='center'>
-  <a href="https://linkedin.com/in/albertopresenti" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin:  alberto presenti-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px; border-radius: 5px;"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/albertopresenti)
+
+</div>
+<div align="center"> 
+
+ ![Profile views](https://komarev.com/ghpvc/?username=albenzoo&color=blue)
 </div>
